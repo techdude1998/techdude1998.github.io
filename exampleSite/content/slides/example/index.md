@@ -41,16 +41,6 @@ slides:
 - [PDF Export](https://github.com/hakimel/reveal.js#pdf-export): `E`
 
 ---
-
-## Code Highlighting
-
-Inline code: `variable`
-
-Code block:
-```python
-porridge = "blueberry"
-if porridge == "blueberry":
-    print("Eating...")
 ```
 
 ---
